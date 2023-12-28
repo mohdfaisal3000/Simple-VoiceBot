@@ -3,7 +3,7 @@
     "short_name": "VoiceBot",
     "theme_color": "#4285F4",
     "background_color": "#f0f0f0ff",
-    "start_url": "https://vobot.netlify.app",
+
     "display": "standalone",
     "icons": [
       {
